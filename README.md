@@ -15,9 +15,7 @@
 </tr>
 </table>
 
-<p><b>Frontend or full-stack engineer</b></p>
-
-<p><a href="https://github.com/arsendulaev">GitHub</a></p>
+<p><b>Backend or full-stack engineer</b></p>
 
 </div>
 
