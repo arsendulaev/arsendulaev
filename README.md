@@ -29,5 +29,3 @@
 </picture>
 
 </div>
-
-<p align="center"><sub>Arsen · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
