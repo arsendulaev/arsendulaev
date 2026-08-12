@@ -1,21 +1,35 @@
-# Привет, я Арсен 👋
+<div align="center">
 
-### C++ разработчик (когда нибудь), студент
+<h3><code>arsendulaev@github ~ $ whoami</code></h3>
 
-- 🔭 Сейчас я работаю над **курсовой про системы лояльности и блокчейн**
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=arsendulaev&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=arsendulaev&theme=aurora&style=terminal&mode=dark" width="100%" alt="arsendulaev portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=arsendulaev&theme=aurora&style=terminal&label=Arsen&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=arsendulaev&theme=aurora&style=terminal&label=Arsen&mode=dark" width="100%" alt="arsendulaev wordmark" />
+</picture></td>
+</tr>
+</table>
 
-- 🌱 Изучаю **React, Tact, TypeScript, SQL (Postgres)**
+<p><b>Frontend or full-stack engineer</b></p>
 
-- ⚡ Из интересного - **у меня чёрный пояс по Айкидо, КМС**
+<p><a href="https://github.com/arsendulaev">GitHub</a></p>
 
-<h3 align="left">Ссылочки:</h3>
-<p align="left">
-<a href="https://github.com/raijin57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="raijin57" height="30" width="40" /></a>
-<a href="https://leetcode.com/adulaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adulaev" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Языки и инструменты:</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></p>
+<div align="center">
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<h3><code>arsendulaev@github ~ $ ./contributions.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=arsendulaev&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=arsendulaev&theme=aurora&style=terminal&mode=dark" width="100%" alt="arsendulaev heatmap" />
+</picture>
+
+</div>
+
+<p align="center"><sub>Arsen · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
