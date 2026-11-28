@@ -5,6 +5,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: bonsai
+  cancel-in-progress: false
 jobs:
   grow:
     runs-on: ubuntu-latest
